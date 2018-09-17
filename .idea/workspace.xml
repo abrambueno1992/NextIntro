@@ -3,46 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="a6b5c160-f357-4517-af61-115d097318b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/04b40f1904f2a21f14e0.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/0e174312d9e1e1c8daca.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/2059de96a471c8628de8.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/3544542fd6fd04ac4560.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/35fb8e53921fc840aeb5.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.04b40f1904f2a21f14e0.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.04b40f1904f2a21f14e0.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.b5599e4a1965b85e1b1f.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.b5599e4a1965b85e1b1f.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.d1e1b4666f418c554346.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.d1e1b4666f418c554346.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.d60230820d5976d48d64.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.d60230820d5976d48d64.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.f1da873fbe1745ba4218.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/4.f1da873fbe1745ba4218.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/483d70c842f13f4a75b8.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/94d860dfd6bdb8b44bc4.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/958a98c3d42bae4cd4a9.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/a90ed96fcda742785a45.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/b5599e4a1965b85e1b1f.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/about.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/bundles/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/bundles/pages/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/bundles/pages/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/post.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/bundles/pages/post.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/ca9b132716f283ec85b5.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/ce61bcf950993d24105e.hot-update.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/ce61bcf950993d24105e.hot-update.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/d1e1b4666f418c554346.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/d60230820d5976d48d64.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/db7fade26f9c84b8756e.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/e517878ebfff0b493a5b.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/f1da873fbe1745ba4218.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/about.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/bundles/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/bundles/pages/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/bundles/pages/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/post.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/bundles/pages/post.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/129149d60a0a668cc673.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/4755a5e4c06ce4f85cae.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/5.129149d60a0a668cc673.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/5.129149d60a0a668cc673.hot-update.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/5.4755a5e4c06ce4f85cae.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/5.4755a5e4c06ce4f85cae.hot-update.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/5f7df45cb90adfbee16a.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/bundles/pages/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/bundles/pages/index.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/commons/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/commons/manifest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/commons/manifest.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/commons/manifest.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,22 +41,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="4" />
+          <entry key="js" value="5" />
+          <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="4" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="315" />
+          <entry key="js" value="928" />
+          <entry key="json" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="315" />
+          <entry key="JSON" value="52" />
+          <entry key="JavaScript" value="928" />
         </counts>
       </usages-collector>
     </session>
@@ -89,11 +70,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="450">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -129,6 +128,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pages/post.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/pages/index.js" />
       </list>
     </option>
@@ -211,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537209389652</updated>
-      <workItem from="1537209390812" duration="3316000" />
+      <workItem from="1537209390812" duration="5220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3316000" />
+    <option name="totallyTimeSpent" value="5220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1910" height="2133" extended-state="4" />
@@ -252,6 +253,16 @@
     <entry file="file://$PROJECT_DIR$/pages/about.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/MyLayout.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/post.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -262,13 +273,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/MyLayout.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="450">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
