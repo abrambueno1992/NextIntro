@@ -1070,7 +1070,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/post.js");
@@ -1078,7 +1078,7 @@ module.exports = __webpack_require__("./pages/post.js");
 
 /***/ })
 
-},[4])
+},[3])
           return { page: comp.default }
         })
       ;
